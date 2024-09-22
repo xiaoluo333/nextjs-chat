@@ -35,7 +35,6 @@ export function ChatPanel({
   const [shareDialogOpen, setShareDialogOpen] = React.useState(false)
 
   const exampleMessages = [
-
     {
       heading: '你是谁？',
       subheading: 'Who are you?',
