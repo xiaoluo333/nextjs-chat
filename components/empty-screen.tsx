@@ -19,9 +19,9 @@ export function EmptyScreen() {
           医疗智能问答 AI Health Bot：基于医疗知识的智能问答，有专业溯源依据。<br/>
           报告分析 Healthcare Textract：上传检查报告，AI 自动分析，提供白话解读，原因分析和相关建议。<br/>
           CVD 慢病管理 MMPose：基于人体建模和姿态识别技术，GenAI 加持，助力脑卒中患者的提前发现预防和治疗。
-          <ExternalLink href="https://github.com/CDL0726/Healthcare-Agent/tree/main" className="mt-4">
-        了解更多详情，请访问 GitHub 仓库
-          </ExternalLink>
+          <a href="https://github.com/CDL0726/Healthcare-Agent/tree/main" className="mt-4">
+  了解更多详情，请访问 GitHub 仓库
+          </a>
         </p>
       </div>
     </div>
