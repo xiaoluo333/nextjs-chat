@@ -37,28 +37,24 @@ export function ChatPanel({
   const exampleMessages = [
 
     {
-      heading: 'Who are you？',
-      //subheading: '42 $DOGE',
-      message: `heading: 'Who are you？',
-`
-    },
-
-
-    {
       heading: '你是谁？',
-      //subheading: '$DOGE right now?',
+      subheading: 'Who are you?',
       message: '你是谁？'
     },
-    
     {
       heading: '维生素E有什么作用，请详细说明',
-      //subheading: 'trending memecoins today?',
-      message: `维生素E有什么作用，请详细说明`
+      subheading: 'What are the functions of Vitamin E? Please explain in detail.',
+      message: '维生素E有什么作用，请详细说明'
     },
     {
-      heading: 'What are the functions of Vitamin E? Please explain in detail.',
-      //subheading: `recent events about $DOGE?`,
-      message: `What are the functions of Vitamin E? Please explain in detail.`
+      heading: '人类如何通过运动增强免疫系统？',
+      subheading: 'How do humans strengthen the immune system through exercise?',
+      message: '人类如何通过运动增强免疫系统？'
+    },
+    {
+      heading: '人工智能如何改变医疗保健行业？',
+      subheading: 'How is AI transforming the healthcare industry?',
+      message: '人工智能如何改变医疗保健行业？'
     }
   ]
 
